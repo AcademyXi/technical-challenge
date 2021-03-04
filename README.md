@@ -3,10 +3,9 @@
 Using Koa as an api framework, we'd like to get a view of how you would design and build a small local api,
 to create courses and manage students. 
 
-Here We are leaving the repository for you to branch it, please follows the convention we are after.
+Here we are leaving the repository for you to branch it, please follows the convention we are after.
 
-The challenge requires you to create a small API which has 3 main functions, create a new course, c
-reate a new student, and enrol a student into a course. For the purpose of this exercise, storing the created documents 
+The challenge requires you to create a small API which has 3 o 4 main functions, create a new course, create a new course intake, create a new student, and enrol a student into a course. For the purpose of this exercise, storing the created documents 
 in a database is not required, however experience dealing with noSQL is required for this role, 
 so you may want to consider implementing a small noSQL database for this challenge.
 
