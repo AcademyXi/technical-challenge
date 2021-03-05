@@ -16,7 +16,7 @@ Ability to create a new course (courses should be run within a specified time fr
 Ability to create a new student
 Ability to enrol the student into a course (students should be able to enrol in multiple courses provided there are no clashing times) 
 
-No testign is required.
+No testing is required.
 
 If there are ways in which you think the system could be improved/enhanced, 
 please note it down and explain the enhancement (no need to implement it). 
