@@ -8,7 +8,7 @@
 'use strict'
 
 import Router from 'koa-router';
-import { addStudent, addCourse, enrollCourse, createCourseIntake  } from './controllers';
+import { addStudent, addCourse, enrollCourse, addCourseIntake  } from './controllers';
 
 
 const router = new Router();
@@ -20,7 +20,7 @@ router.get('/', (ctx, next) => {
 router.post('/student/add', addStudent);
 router.post('/course/add', addCourse);
 router.post('/enroll/add', enrollCourse);
-router.post('/createCourseIntake/add', createCourseIntake);
+router.post('/intake/add', addCourseIntake);
 
 
 export default router

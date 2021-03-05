@@ -9,7 +9,7 @@
 import { courseIntakeService } from '../../domain/courseIntake/courseIntakeService'
 import { handleResponse } from '../helpers'
 
-export const createCourseIntake = async (ctx, next) => {
+export const addCourseIntake = async (ctx, next) => {
   // Develop here
   // Use handleResponse
 }

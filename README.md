@@ -30,7 +30,7 @@ KoaJS web APIs focused on separation of concerns and scalability.
 
 ## Quick start
 
-1. Run docker-compose up, to spin up mngo container and a workspace for development
+1. Run docker-compose up, to spin up mongo container and a workspace for development
 2. Access `http://localhost:3000/` and you're ready to go!
 
 ## Endpoints POST
@@ -52,7 +52,7 @@ http://localhost:3000/course/add
 }
 ```
 
-http://localhost:3000/courseintake/add
+http://localhost:3000/intake/add
 ```json
 {
   "name": "User Experience ux-01",
